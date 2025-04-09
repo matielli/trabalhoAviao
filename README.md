@@ -4,9 +4,9 @@ This repository contains all documentation related to the development, testing, 
 
 ## Included content:
 
-- [Flight statistics](estatistica_voo/dados_de_voo.md)
-- [Development process](estatistica_voo/processo_de_desenvolvimento.md)
-- [Final report](estatistica_voo/relatorio_final.md)
+- [Flight statistics](estatisticas_voo/dados_de_voo.md)
+- [Development process](estatisticas_voo/processo_de_desenvolvimento.md)
+- [Final report](estatisticas_voo/relatorio_final.md)
 
 
 
