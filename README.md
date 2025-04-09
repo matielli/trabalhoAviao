@@ -1,9 +1,20 @@
-Projeto Avião de Papel
+Paper Plane Project
 
-Este repositório contém toda a documentação relacionada ao desenvolvimento, testes e resultados finais do projeto de construção e análise de aviões de papel.
+This repository contains all documentation related to the development, testing, and final results of the paper plane construction and analysis project.
 
-Conteúdo incluído:
-- Estatísticas dos voos
-- Documentação do processo de desenvolvimento
-- Relatório final
-- Fotos e vídeos dos testes e do protótipo final
+Included content:
+
+Flight statistics
+
+Development process documentation
+
+Final report
+
+Photos and videos of the tests and final prototype
+
+
+
+
+
+
+

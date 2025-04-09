@@ -1,17 +1,17 @@
-# Processo de Desenvolvimento
+# Development Process
 
-## Planejamento Inicial
+## Initial Planning
 
-Iniciamos com uma pesquisa na internet sobre diferentes modelos de aviões de papel.
+We started with online research on different paper plane models.
 
-## Prototipagem
+## Prototyping
 
-Cada integrante da equipe dobrou e ajustou os modelos, testando diferentes formatos para melhorar estabilidade e alcance. Os materiais foram mantidos iguais para evitar variações.
+Each team member folded and adjusted the models, testing different shapes to improve stability and flight distance. Materials were kept the same to avoid variations.
 
-## Testes
+## Testing
 
-Os testes foram feitos em ambientes internos e externos. Para cada voo, registramos a distância, tempo e as condições do vento.
+Tests were carried out in both indoor and outdoor environments. For each flight, we recorded the distance, flight time, and wind conditions.
 
-## Ajustes Finais
+## Final Adjustments
 
-Com base nos resultados, fizemos pequenos ajustes no bordo de ataque e na cauda do modelo para melhor desempenho .
+Based on the results, we made small adjustments to the leading edge and tail of the model to improve performance.

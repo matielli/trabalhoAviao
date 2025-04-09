@@ -1,19 +1,19 @@
-# Relatório Final 
+# Final Report
 
-## Objetivo
+## Objective
 
-Desenvolver e testar diferentes modelos de avião de papel, identificando qual configuração apresenta o melhor desempenho de voo.
+To develop and test different paper plane models, identifying which configuration provides the best flight performance.
 
-## Metodologia
+## Methodology
 
-Escolhemos o melhor modelo pesquisado e testamos manualmente, com registros de tempo de voo e distância percorrida. As condições ambientais foram anotadas em cada lançamento.
+We selected the best model based on our research and tested it manually, recording flight time and distance. Environmental conditions were noted for each launch.
 
-## Resultados
+## Results
 
-O Modelo que escolhemos apresentou um bom desempenho, com alcance de 6,5 metros e tempo de voo de 4 segundos em ambiente externo. 
+The model we chose performed well, reaching a distance of 6.5 meters and a flight time of 4 seconds in an outdoor environment.
 
-## Conclusão
+## Conclusion
 
-O projeto permitiu aplicar conceitos básicos de aerodinâmica, registro de dados e análise de resultados. Pequenas alterações no design mostraram grande impacto na performance.
+The project allowed us to apply basic concepts of aerodynamics, data recording, and result analysis. Small changes in design showed a significant impact on performance.
 
-Todos os dados e mídias estão organizados nas respectivas pastas deste repositório.
+All data and media are organized in the appropriate folders of this repository.
